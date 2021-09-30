@@ -1,6 +1,7 @@
 {
   "name": "react-intro-components",
   "version": "1.0.0",
+  "homepage":"https://rok862.github.io/CSCIE39HomeWork3/",
   "private": false,
   "dependencies": {
     "boxicons": "^2.0.9",
